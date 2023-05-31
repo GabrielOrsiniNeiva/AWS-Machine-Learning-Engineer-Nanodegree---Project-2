@@ -38,7 +38,7 @@ import base64
 from sagemaker.serializers import IdentitySerializer
 
 # Fill this in with the name of your deployed model
-ENDPOINT = 'image-classification-2023-05-31-13-50-41-175'
+ENDPOINT = 'image-classification-2023-05-31-21-27-56-077'
 
 def lambda_handler(event, context):
 
